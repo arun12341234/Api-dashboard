@@ -39,7 +39,6 @@ Arun Kumar
 
 ![Dashboard Api Input Data](README_3.png) 
 
-json
 ```
 {
 "Bot Name:"AR04",
@@ -57,6 +56,7 @@ json
 
 ![Dashboard Api Input Data](README_2.png)
 
+```
 {
 "bot_name": "ARO2", 
 "file_name": "AR01-MasterFile-12-03-2024.csv",
@@ -65,7 +65,7 @@ json
 "Processed_records_by_bot": "28",
 "Success_result": "93.33%"
 }
-
+```
 
 
 ## Return Value
