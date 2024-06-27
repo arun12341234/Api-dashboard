@@ -39,6 +39,8 @@ Arun Kumar
 
 ![Dashboard Api Input Data](README_3.png) 
 
+json
+```
 {
 "Bot Name:"AR04",
 "Total Records Completed": 8667,
@@ -49,7 +51,7 @@ Arun Kumar
 "Action When Bot Not Running": "Catch up run scheduled accordingly", 
 "Date Filled Out": "2024-09-02"
 }
-
+```
 **Bot Details Data**
 * The first JSON value must specify the Bot Name.
 
